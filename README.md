@@ -1,3 +1,3 @@
 # testthing
 
-OK test.
+OK testing.
