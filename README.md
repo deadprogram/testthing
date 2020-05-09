@@ -1,5 +1,4 @@
 # testthing
 
-OK testing yet again again again.
-again
+OK testing yet again again again again
 
